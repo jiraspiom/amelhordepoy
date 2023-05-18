@@ -9,6 +9,7 @@ npm i fastify
 npm i prisma -D
 
 npm i @prisma/client
+npm i zod
 
 npx prisma init
 
@@ -20,3 +21,6 @@ npx prisma migrate dev
     -> create user
 
 npx prisma studio
+
+
+pmXfvd6Zqg4
